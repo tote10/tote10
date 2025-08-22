@@ -46,12 +46,6 @@ Passionate about **React, Django, and automation**, always learning and building
 
 ---
 
-## 🐍 Contributions  
-
-![snake gif](https://github.com/tote10/tote10/blob/output/github-contribution-grid-snake.svg)  
-
----
-
 ## 🌍 Connect With Me  
 
 <p align="center">
