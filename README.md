@@ -1,8 +1,8 @@
-# 🚀 Tote – Full-Stack Developer  
+# 🚀 Moti – Full-Stack Developer  
 
 ## 👋 About Me  
 
-I’m **Tote**, a developer who builds **end-to-end applications** — from clean user interfaces to secure backends.  
+I’m **Moti**, a developer who builds **end-to-end applications** — from clean user interfaces to secure backends.  
 Passionate about **React, Django, and automation**, always learning and building.  
 
 - 💻 Focus: **Full-Stack Development** (Frontend + Backend)  
@@ -55,7 +55,7 @@ Passionate about **React, Django, and automation**, always learning and building
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/moti-alemu-958699346"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:motialemu9@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white" /></a>
   <a href="https://tote10.github.io/moti-portfolio/"><img src="https://img.shields.io/badge/-Portfolio-orange?logo=firefox&logoColor=white" /></a>
 </p>  
