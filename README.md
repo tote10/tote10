@@ -40,7 +40,9 @@ Passionate about **React, Django, and automation**, always learning and building
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tote10&layout=compact&theme=tokyonight" height="180em"/>
 </p>  
 
- 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tote10&theme=tokyonight" alt="GitHub Streak"/>
+</p>  
 
 ---
 
