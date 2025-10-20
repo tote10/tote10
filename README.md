@@ -6,7 +6,7 @@ I’m **Moti**, a developer who builds **end-to-end applications** — from clea
 Passionate about **React, Django, and automation**, always learning and building.  
 
 - 💻 Focus: **Full-Stack Development** (Frontend + Backend)  
-- 🔭 Projects: **Joke Generator, Budget Tracker, Dashboards**  
+- 🔭 Projects: **Joke Generator, Budget Tracker, TaskManage(with react + Django)**  
 - 🌱 Growing in: **React, Firebase, and System Design**  
 - ⚡ Motto: *“Turning ideas into working code.”*  
 
