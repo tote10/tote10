@@ -22,7 +22,7 @@ I'm **Moti**, a developer who builds end-to-end applications — from clean user
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/tote10/construction-website">
+  <a href="https://github.com/tote10/construction-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tote10&repo=construction-website&theme=tokyonight" />
   </a>
 </p>
