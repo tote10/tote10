@@ -41,7 +41,7 @@ I'm **Moti**, a developer who builds end-to-end applications — from clean user
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tote10&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-mu-hazel.vercel.app?user=tote10&theme=transparent" alt="GitHub Streak"/>
 </p>
 
 ---
