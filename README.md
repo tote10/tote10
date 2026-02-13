@@ -48,5 +48,5 @@ I am a Backend Developer focused on building structured, efficient, and scalable
 <p align="center">
   <a href="https://linkedin.com/in/moti-alemu-958699346"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:motialemu9@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white" /></a>
-  <a href="https://portfolio-lemon-alpha-52.vercel.app//"><img src="https://img.shields.io/badge/-Portfolio-orange?logo=firefox&logoColor=white" /></a>
+  <a href="https://moti-alemu.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-orange?logo=firefox&logoColor=white" /></a>
 </p>
