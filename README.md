@@ -1,13 +1,8 @@
-# 🚀 Moti – Full-Stack Developer
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Moti+Alemu;Backend+Developer)](https://git.io/typing-svg)
+---
 ## 👋 About Me
 
-I'm **Moti**, a developer who builds end-to-end applications — from clean user interfaces to secure backends. I'm passionate about **React, Django, and automation**, and I enjoy learning and shipping projects.
-
-- 💻 Focus: **Full-Stack Development** (Frontend + Backend)
-- 🔭 Projects: **Construction Website** — building responsive websites for construction businesses
-- 🌱 Growing in: **React, Django, and System Design**
-- ⚡ Motto: *"Turning ideas into working code."*
+I am a Backend Developer focused on building structured, efficient, and scalable systems. I enjoy understanding how things work deeply — from database design to API logic. I have also built a Construction Website project, applying both backend logic and frontend structure to deliver a real-world solution. I am continuously improving my skills by building practical projects and solving real problems.
 
 ---
 
@@ -22,12 +17,12 @@ I'm **Moti**, a developer who builds end-to-end applications — from clean user
 ## 📂 Featured Projects
 <p align="center">
   <a href="https://github.com/tote10/construction-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tote10&repo=construction-backend&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=tote10&repo=construction-backend&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/tote10/construction-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tote10&repo=construction-website&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=tote10&repo=construction-website&theme=tokyonight" />
   </a>
 </p>
 
@@ -36,12 +31,14 @@ I'm **Moti**, a developer who builds end-to-end applications — from clean user
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tote10&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tote10&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=tote10&layout=compact&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tote10&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-mu-hazel.vercel.app?user=tote10&theme=transparent" alt="GitHub Streak"/>
+  
 </p>
 
 ---
